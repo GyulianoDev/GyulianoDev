@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Gyuliano 👨‍💻 Bem-vindo ao meu perfil! 🚀
+## Oi! Eu sou o Gyuliano 👨‍💻 Bem-vindo ao meu perfil! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gyuliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
