@@ -1,13 +1,13 @@
-<h1 align="center">👋 Olá, eu sou o Gyuliano</h1>
+<h1 align="center">👋 Hi, I'm Gyuliano</h1>
 
 <p align="center">
-  💻 Desenvolvedor focado em criar experiências modernas, rápidas e bem estruturadas.<br>
-  🚀 Sempre evoluindo, sempre construindo.
+  💻 Developer focused on building clean, fast, and modern experiences.<br>
+  🚀 Always learning, always building.
 </p>
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🧠 Tech I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,cs&theme=dark" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://instagram.com/gyuliano_lm" target="_blank">
@@ -43,17 +43,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
 </p>
-
----
-
-## ⚡ Sobre mim
-
-- 🎯 Focado em desenvolvimento web moderno  
-- 🧩 Gosto de interfaces limpas e bem construídas  
-- 📈 Sempre aprendendo novas tecnologias  
-- 🔥 Buscando evoluir todos os dias  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfa6,100:0d1117&height=120&section=footer"/>
