@@ -1,27 +1,60 @@
-## Oi! Eu sou o Gyuliano 👨‍💻 Bem-vindo ao meu perfil! 🚀
+<h1 align="center">👋 Olá, eu sou o Gyuliano</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gyuliano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gyuliano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gyuliano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gyuliano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gyuliano-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center">
+  💻 Desenvolvedor focado em criar experiências modernas, rápidas e bem estruturadas.<br>
+  🚀 Sempre evoluindo, sempre construindo.
+</p>
 
 ---
 
-### 📊 Minhas Estatísticas:
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GyulianoDev&show_icons=true&count_private=true&hide_border=true&title_color=1abc9c&icon_color=1abc9c&text_color=ffffff&bg_color=0d1117" alt="Gyuliano Github Status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulianoDev&layout=compact&hide_border=true&title_color=1abc9c&text_color=ffffff&bg_color=0d1117" />
-</div>
+## 🧠 Tecnologias que utilizo
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,cs&theme=dark" />
+</p>
 
 ---
 
-### 🌎 Onde me encontrar:
-<div> 
-  <a href="https://instagram.com/gyuliano_lm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gyuliano-marcondes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=GyulianoDev&show_icons=true&hide_border=true&title_color=00bfa6&icon_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" 
+  />
+  <img 
+    width="40%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulianoDev&layout=compact&hide_border=true&title_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" 
+  />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://instagram.com/gyuliano_lm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
+  <a href="mailto:contato@outlook.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
+  <a href="https://www.linkedin.com/in/gyuliano-marcondes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+</p>
+
+---
+
+## ⚡ Sobre mim
+
+- 🎯 Focado em desenvolvimento web moderno  
+- 🧩 Gosto de interfaces limpas e bem construídas  
+- 📈 Sempre aprendendo novas tecnologias  
+- 🔥 Buscando evoluir todos os dias  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfa6,100:0d1117&height=120&section=footer"/>
+</p>
