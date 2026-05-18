@@ -15,21 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=GyulianoDev&show_icons=true&hide_border=true&title_color=00bfa6&icon_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" 
-  />
-  <img 
-    width="40%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyulianoDev&layout=compact&hide_border=true&title_color=00bfa6&text_color=c9d1d9&bg_color=0d1117" 
-  />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="center">
