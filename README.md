@@ -10,7 +10,7 @@
 ## 🧠 Tech I use
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,nodejs,express,firebase,electron,tailwind,expo&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,nodejs,firebase,electron,tailwind,expo&theme=dark" />
 </p>
 
 ---
